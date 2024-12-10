@@ -17,7 +17,6 @@ The following folders contain:
 - `R/`:
 
 # Installing project R package dependencies
-
 If dependencies have been managed by using `usethis::use_package("packagename")`
 through the `DESCRIPTION` file, installing dependencies is as easy as opening the
 `AdvancedR3.Rproj` file and running this command in the console:
