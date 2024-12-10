@@ -6,6 +6,7 @@ Imports:
     fs,
     here,
     knitr,
+    readr,
     readxl,
     rmarkdown,
     snakecase,
